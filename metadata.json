@@ -1,0 +1,7 @@
+{
+  "name": "Vyom - Personal Voice Assistant",
+  "description": "A web-based voice assistant powered by Gemini, featuring conversational AI, task management, and web automation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
